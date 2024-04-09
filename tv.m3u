@@ -41,6 +41,7 @@ https://itv.lat/tv/live.php?&line=1&id=cctv4k
 https://itv.lat/tv/live.php?&line=1&id=cctv164k
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视ʰ",CGTN
 https://itv.lat/tv/live.php?&line=1&id=cgtn
+
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视ʰ",北京卫视
 https://itv.lat/tv/live.php?&line=1&id=bjws
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视ʰ",东方卫视
@@ -117,6 +118,7 @@ https://itv.lat/tv/live.php?&line=1&id=btws
 https://itv.lat/tv/live.php?&line=1&id=xzws
 #EXTINF:-1 tvg-id="西藏藏语卫视" tvg-name="西藏藏语卫视" tvg-logo="https://live.fanmingming.com/tv/西藏藏语卫视.png" group-title="卫视ʰ",西藏藏语卫视
 https://itv.lat/tv/live.php?&line=1&id=xzzyws
+
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
@@ -135,3 +137,14 @@ http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C231878792
 http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 #EXTINF:-1 tvg-name="ViuTV6" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",ViuTV6
 http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
+
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广州",广州综合
+https://tv.iill.top/gz/zh
+#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广州",广州新闻
+https://tv.iill.top/gz/xw
+#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="广州",广州竞赛
+https://tv.iill.top/gz/jj
+#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="广州",广州影视
+https://tv.iill.top/gz/ys
+#EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.com/tv/广州法治.png" group-title="广州",广州法治
+https://tv.iill.top/gz/fz
