@@ -155,21 +155,19 @@ https://tv.iill.top/gz/ys
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.com/tv/广州法治.png" group-title="广东",广州法治
 https://tv.iill.top/gz/fz
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
-https://live.goodiptv.club/api/itouch.php?id=1183
+https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
-https://live.goodiptv.club/api/itouch.php?id=1186
+https://php.17186.eu.org/gdtv/web/xwpd.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="广东",广东民生
 https://live.goodiptv.club/api/itouch.php?id=1185
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
-https://live.goodiptv.club/api/itouch.php?id=1182
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
-https://live.goodiptv.club/api/itouch.php?id=1197
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-name="广东4K超高清" tvg-logo="https://epg.112114.xyz/logo/广东4K.png" group-title="广东",广东4K超高清
-https://live.goodiptv.club/api/itouch.php?id=1198
+http://php.jdshipin.com:8880/iptv.php?id=gd4k
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东",广东体育
-https://live.goodiptv.club/api/itouch.php?id=1184
+https://php.17186.eu.org/gdtv/gdty.m3u8
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
-https://live.goodiptv.club/api/itouch.php?id=1199
+http://php.jdshipin.com:8880/iptv.php?id=gzys
 #EXTINF:-1 tvg-name="广东国际" tvg-logo="https://epg.112114.xyz/logo/广东国际.png" group-title="广东",广东国际
 https://live.goodiptv.club/api/itouch.php?id=1191
 #EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="广东",广东经济科教
@@ -178,3 +176,5 @@ https://live.goodiptv.club/api/itouch.php?id=1196
 https://live.goodiptv.club/api/itouch.php?id=1200
 #EXTINF:-1 tvg-name="广东移动" tvg-logo="https://epg.112114.xyz/logo/广东移动.png" group-title="广东",广东移动
 https://live.goodiptv.club/api/itouch.php?id=2463
+#EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://epg.112114.xyz/logo/广州南国都市.png" group-title="其他",广州南国都市
+http://php.jdshipin.com:8880/gztv.php?id=shenghuo
